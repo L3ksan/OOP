@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\СевГУ\OOP\Labs\oop8\oop8\Main.cpp(16,19): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  1 of 144 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  oop8.vcxproj -> D:\СевГУ\OOP\Labs\oop8\Release\oop8.exe

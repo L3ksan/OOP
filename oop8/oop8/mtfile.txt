@@ -1,0 +1,2 @@
+Perimetr = 1842
+Area = 10908
